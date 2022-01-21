@@ -1,5 +1,5 @@
-MAAF SC DALAM PERBAIKAN 
-
+Untuk Username Dan Pw Silahkan Gabung Di Tele.
+Link : https://t.me/+I5KLyU8xjAU3NzA9
 # BruteFb
 Script Brutal Facebook Login Via Token
 
@@ -26,3 +26,4 @@ pip install bs4
 pip install mechanize
 
 pip install futures
+
