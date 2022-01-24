@@ -27,3 +27,4 @@ pip install mechanize
 
 pip install futures
 
+python3 main.py
