@@ -1,5 +1,6 @@
 Untuk Username Dan Pw Silahkan Gabung Di Tele.
 Link : https://t.me/+I5KLyU8xjAU3NzA9
+
 # BruteFb
 Script Brutal Facebook Login Via Token
 
@@ -28,3 +29,6 @@ pip install mechanize
 pip install futures
 
 python3 main.py
+
+python3 mbf3.py
+
